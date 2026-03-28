@@ -1,0 +1,6 @@
+databaseChangeLog:
+  - changeSet:
+      id: 001-initial-setup
+      author: dimas
+      changes:
+        - echo: "Liquibase is ready to work!"
